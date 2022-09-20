@@ -4,6 +4,7 @@ Similar to an open world game, cloud computing has many characters and quests th
 
 # Um guia gamificado sobre a nuvem da AWS
 
+Semelhante a um jogo de mundo aberto, a computação na nuvem tem muitos personagens e missões que você pode escolher. Para ajudá-lo a navegar neste mundo, forneceremos um guia gamificado da nuvem AWS, mostrando alguns dos caminhos que você pode seguir, ferramentas que você pode usar e como dominar esse tipo diferente de jogo.
 
 # Una guía gamificada de la nube de AWS
 
