@@ -6,7 +6,7 @@ Ana Cunha, Developer Advocate at AWS
 
 ## Español
 
-Developer Advocate en Amazon Web Services para Latinoamérica.
+Ana Cunha es Developer Advocate en AWS para América Latina. Anteriormente, trabajó como ingeniera de desarrollo de software en Amazon.com.
 
 ## Português
 
